@@ -52,3 +52,7 @@
                     s2 (see below)
      %              go to the "mate," if one exists, of this parenthesis
                     or brace or bracket (very useful for programmers!)
+
+http://heather.cs.ucdavis.edu/~matloff/UnixAndC/Editors/ViIntro.html  
+
+
