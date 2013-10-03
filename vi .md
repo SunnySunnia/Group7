@@ -1,4 +1,6 @@
- h              move cursor one character to left
+    
+    
+     h              move cursor one character to left
      j              move cursor one line down
      k              move cursor one line up
      l              move cursor one character to right
