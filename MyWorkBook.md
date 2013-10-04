@@ -1,4 +1,3 @@
-
 vagrant up  
 vagrant ssh  
 sudo apt-get install python-matplotlib  
@@ -12,6 +11,6 @@ import matplotlib
 import matplotlib.pyplot as plt  
 import pandas as pd  
 from pylab import *  
-
+%pylab inline
 
 
