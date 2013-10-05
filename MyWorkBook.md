@@ -27,3 +27,11 @@ from pylab import *
 %pylab inline
 
 
+Useful links:  
+-----------------
+Matplotlib - 2D and 3D plotting in Python:  
+http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-4-Matplotlib.ipynb  
+
+R formula: (regression)  
+http://nbviewer.ipython.org/urls/raw.github.com/fperez/nipy-notebooks/master/exploring_r_formula.ipynb  
+
