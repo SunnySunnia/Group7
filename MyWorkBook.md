@@ -17,7 +17,7 @@ sudo apt-get update
 sudo apt-get install r-base  
 sudo pip install rpy2
 
-On Ipyhton notebook:  
+On Ipython notebook:  
 -------------------------------------------------------------------------------------------------
 import numpy as np  
 import matplotlib
