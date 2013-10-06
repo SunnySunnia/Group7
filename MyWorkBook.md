@@ -27,6 +27,16 @@ from pylab import *
 %pylab inline
 
 
+Git Push  
+---------------------  
+cp "test form.ipynb" ~/Repo  
+cd Repo  
+git add "test form.ipynb"  
+git commit -m "test 1"  
+git push  #will ask for github name and password.
+
+
+
 Useful links:  
 -----------------
 Matplotlib - 2D and 3D plotting in Python:  
