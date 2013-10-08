@@ -10,7 +10,7 @@ specialist and generalists
 takeaway: collaboration and passing/sharing thngs(codes, files)  
 
 *Group3:  
--  
+
 
 *Group4:  
 -roadblock: having problems like virtual machine  
