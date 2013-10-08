@@ -64,3 +64,9 @@ takeaway: how much did you rely on github issue tracker? What is the CS skills y
 -career goal: most popular: actuary  
 
 
+Future Plans:  
+-------------
+presentations on every other Tuesday  
+to be decided: whether we will mix/switch roles in vertical group.
+
+
