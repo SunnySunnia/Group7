@@ -10,7 +10,10 @@ specialist and generalists
 takeaway: collaboration and passing/sharing thngs(codes, files)  
 
 *Group3:  
-
+-what skills you feel comfortable to be a technical lead with  
+-dot chart: # of people vs skills  
+-data cleaning on ipynb, plots in R.
+question: why R?: every member knows R well. Approval for using R? Expectation of the project?  
 
 *Group4:  
 -roadblock: having problems like virtual machine  
@@ -70,3 +73,10 @@ presentations on every other Tuesday
 to be decided: whether we will mix/switch roles in vertical group.
 
 
+2013-10-10:  
+-
+markdown:  
+
+```sh
+this is the code
+```
