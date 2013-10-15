@@ -19,6 +19,8 @@ vi ~/stat157.cfg
 ```
 sudo apt-get install python-matplotlib  
 sudo apt-get install python-tornado  
+sudo apt-get install python-pandas
+sudo apt-get install python-scipy
 ```
 Access ipynb:
 ```
