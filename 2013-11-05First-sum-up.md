@@ -5,4 +5,6 @@ USGS data-->csv-->ppx
 Have a summary on the types of visualizations Luen used.($)  
 Have a function on ipynb returning the alarm range.  
 
-Understanding MDA 
+Understanding MDA?  
+continue with ETAS?  
+
